@@ -1,8 +1,11 @@
 <html>
-<head>
-  <title>Testing Ground</title>
- </head>
- <body>
-  <h1>Yay! It works</h1>
- </body>
- </html>
+<body>
+
+<form action="welcome.html" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
+
+</body>
+</html>
